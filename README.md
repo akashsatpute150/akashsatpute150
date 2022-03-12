@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Satpute</h1>
-<h3 align="center">I’m interested in ML and Web Devlopement.</h3>
+<h3 align="center">I’m interested in  Web Devlopement.</h3>
 
 - 🌱 I’m currently learning **Web Development**
 
